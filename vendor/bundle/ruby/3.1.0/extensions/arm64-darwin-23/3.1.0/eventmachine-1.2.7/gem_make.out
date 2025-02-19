@@ -1,0 +1,17 @@
+current directory: /Users/yejimac/Workspace/yeahaluu.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/yejimac/.rbenv/versions/3.1.4/bin/ruby -I /Users/yejimac/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/yejimac/Workspace/yeahaluu.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250219-45960-7k635e sitelibdir\=./.gem.20250219-45960-7k635e clean
+
+current directory: /Users/yejimac/Workspace/yeahaluu.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250219-45960-7k635e sitelibdir\=./.gem.20250219-45960-7k635e
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/yejimac/Workspace/yeahaluu.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250219-45960-7k635e sitelibdir\=./.gem.20250219-45960-7k635e install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20250219-45960-7k635e
